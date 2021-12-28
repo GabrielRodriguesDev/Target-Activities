@@ -52,29 +52,35 @@ namespace Gupy_Target
             int n2 = 1;
             int sequence = 0;
 
-            if (number == 0)
+            if (number < 0)
             {
-                Console.WriteLine("O número " + number + " pertence a sequência de Fibonacci.");
+                Console.WriteLine("Número negativo não pertence a sequência de Fibonacci.");
             }
             else
             {
-                while (sequence < number)
-                {
-                    sequence = n1 + n2;
-                    n1 = n2;
-                    n2 = sequence;
-                }
-
-                if (number == sequence)
+                if (number == 0)
                 {
                     Console.WriteLine("O número " + number + " pertence a sequência de Fibonacci.");
                 }
                 else
                 {
-                    Console.WriteLine("O número " + number + " não pertence a sequência de Fibonacci.");
+                    while (sequence < number)
+                    {
+                        sequence = n1 + n2;
+                        n1 = n2;
+                        n2 = sequence;
+                    }
+
+                    if (number == sequence)
+                    {
+                        Console.WriteLine("O número " + number + " pertence a sequência de Fibonacci.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("O número " + number + " não pertence a sequência de Fibonacci.");
+                    }
                 }
             }
-
         }
 
 
@@ -139,7 +145,7 @@ namespace Gupy_Target
 
                 Console.WriteLine("O menor valor de faturamento é: R$" + lowerValue);
                 Console.WriteLine("O maior valor de faturamento é: R$" + highestValue);
-                Console.WriteLine(numberOfDays + " dias o faturamento diário foi superior à média mensal.");
+                Console.WriteLine("Dentro do faturamento mensal tivemos " + numberOfDays + " dias em que faturamento diário foi superior à média mensal.");
 
 
             }
