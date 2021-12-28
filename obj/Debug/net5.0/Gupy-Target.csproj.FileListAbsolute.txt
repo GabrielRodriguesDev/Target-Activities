@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\Gupy-Target.exe
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\Gupy-Target.deps.json
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\Gupy-Target.runtimeconfig.json
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\Gupy-Target.runtimeconfig.dev.json
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\Gupy-Target.dll
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\ref\Gupy-Target.dll
+C:\Users\gabri\Desktop\Gupy-Target\bin\Debug\net5.0\Gupy-Target.pdb
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.dll
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\ref\Gupy-Target.dll
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.pdb
+C:\Users\gabri\Desktop\Gupy-Target\obj\Debug\net5.0\Gupy-Target.genruntimeconfig.cache
